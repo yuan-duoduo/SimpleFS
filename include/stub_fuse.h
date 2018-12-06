@@ -12,8 +12,8 @@
 struct fuse_operations sfsOps = {
     .getattr    =   sfsGetattr,
     .readdir    =   sfsReaddir,
-    .create     =   sfs_create,
-    .unlink     =   sfs_unlink,
+    .create     =   sfsCreate,
+    .unlink     =   sfsUnlink,
 };
 
 

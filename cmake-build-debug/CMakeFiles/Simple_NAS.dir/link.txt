@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Simple_NAS.dir/main.cpp.o  -o Simple_NAS 
